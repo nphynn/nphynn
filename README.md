@@ -18,7 +18,7 @@ I’m a data expert with a knack for transforming complex datasets into actionab
 
 
 **Interests**
-- Sports (Proud Liverpool fan!)
+- Sports (Proud Liverpool fan! & Former Texas Longhorn)
 - Music (Instruments and composition)
 - Health & Wellness
 - Human Psychology
