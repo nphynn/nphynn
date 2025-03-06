@@ -5,6 +5,7 @@ I’m a data expert with a knack for transforming complex datasets into actionab
 
 
 **Projects**
+- [Business Data Keyword Filtering](https://github.com/nphynn/Projects/blob/main/Business%20Data%20Keyword%20Filtering.py): Developed a script to clean and filter business data by removing irrelevant entries and extracting relevant businesses based on keyword matching. The script processes an Excel file, excludes unwanted businesses, retains relevant ones, and saves the results into categorized Excel files.
 - [Drug Overdose Factors Analysis in Pennsylvania](https://github.com/nphynn/Projects/blob/main/Drug%20Overdose%20in%20PA%20Project.Rmd): Applied machine learning to compare models using feature engineering and selection, analyzing variable importance.
 - [Wine Recommendation System](https://github.com/nphynn/Projects/blob/main/Wine%20Recommedation%20System.ipynb): Utilized NLP to build models and create vectors for recommending similar wines.
 - [ZIP Code Distance Calculator](https://github.com/nphynn/Projects/blob/main/ZIPCode%20API%20Location%20Extraction.ipynb): Leveraged a ZIP Code API to develop functions that calculate distances between locations.
