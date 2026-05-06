@@ -5,6 +5,7 @@ I’m a data expert with a knack for transforming complex datasets into actionab
 
 
 **Projects**
+- [Retention × Churn × LTV Customer Analytics](https://github.com/nphynn/rentention_churn_ltv): A production-designed customer analytics project on the Online Retail II dataset providing a prioritized customer list with recommended actions and expected ROI.
 - [UEFA Champions League Knockout Prediction](https://github.com/nphynn/champions_league_prediction_r16_final_20250308): Built composite strength scores from multi-source football data and applied logistic win probabilities with Monte Carlo simulation to predict the 2025/26 knockout bracket.
 - [Business Data Keyword Filtering](https://github.com/nphynn/Projects/blob/main/Business%20Data%20Keyword%20Filtering.py): Developed a script to clean and filter business data by removing irrelevant entries and extracting relevant businesses based on keyword matching. The script processes an Excel file, excludes unwanted businesses, retains relevant ones, and saves the results into categorized Excel files.
 - [Drug Overdose Factors Analysis in Pennsylvania](https://github.com/nphynn/Projects/blob/main/Drug%20Overdose%20in%20PA%20Project.Rmd): Applied machine learning to compare models using feature engineering and selection, analyzing variable importance.
